@@ -200,854 +200,1138 @@
   "Popular": true
 },{
   "Name": "RESTAURANTE & BAR 8",
-  "City": "Cabinda"
+  "City": "Cabinda",
+  "Popular": true
 },{
   "Name": "Pizzaria Xedos",
-  "City": "Cabinda"
+  "City": "Cabinda",
+  "Popular": true
 },{
   "Name": "AVMServicesltd",
-  "City": "Cabinda"
+  "City": "Cabinda",
+  "Popular": true
 },{
   "Name": "Churrascaria sabor do ingrediente",
-  "City": "Cabinda"
+  "City": "Cabinda",
+  "Popular": true
 },{
   "Name": "R F V Tati",
-  "City": "Cabinda"
+  "City": "Cabinda",
+  "Popular": true
 },{
   "Name": "Doces Ribeirinha",
-  "City": "Cabinda"
+  "City": "Cabinda",
+  "Popular": true
 },{
   "Name": "Vundila (Reutarante, Bar e Pensão)",
-  "City": "Cabinda"
+  "City": "Cabinda",
+  "Popular": true
 },{
   "Name": "Restaurante Janina",
-  "City": "Cabinda"
+  "City": "Cabinda",
+  "Popular": true
 },{
   "Name": "GaleriaElohim",
-  "City": "Cabinda"
+  "City": "Cabinda",
+  "Popular": true
 },{
   "Name": "Rolechi restaurante",
-  "City": "Cabinda"
+  "City": "Cabinda",
+  "Popular": true
 },{
   "Name": "ZENIKSON",
-  "City": "Cuito"
+  "City": "Cuito",
+  "Popular": true
 },{
   "Name": "Espaço Quitutes",
-  "City": "Cuito"
+  "City": "Cuito",
+  "Popular": true
 },{
   "Name": "Odysseia Family food",
-  "City": "Cuito"
+  "City": "Cuito",
+  "Popular": true
 },{
   "Name": "Domingos cangololo",
-  "City": "Cuito"
+  "City": "Cuito",
+  "Popular": false
 },{
   "Name": "Calembequeta",
-  "City": "Cuito"
+  "City": "Cuito",
+  "Popular": false
 },{
   "Name": "Snack Bar Licompao",
-  "City": "Cuito"
+  "City": "Cuito",
+  "Popular": false
 },{
   "Name": "Menezes Mídia",
-  "City": "Cuito"
+  "City": "Cuito",
+  "Popular": false
 },{
   "Name": "AP nova geração buffet e decoração",
-  "City": "Cuito"
+  "City": "Cuito",
+  "Popular": false
 },{
   "Name": "Apdes - Agência Piaget para o Desenvolvimento",
-  "City": "Cuito"
+  "City": "Cuito",
+  "Popular": false
 },{
   "Name": "ELSA-CLOTHES",
-  "City": "Cuito"
+  "City": "Cuito",
+  "Popular": false
 },{
   "Name": "OCEAN ANARI",
-  "City": "Cuito"
+  "City": "Cuito",
+  "Popular": false
 },{
   "Name": "Restaurante Pimms",
-  "City": "Cuito"
+  "City": "Cuito",
+  "Popular": false
 },{
   "Name": "Hungry Lion Lubango",
-  "City": "Cuito"
+  "City": "Cuito",
+  "Popular": false
 },{
   "Name": "Bermor Comercial (Hospedaria e Restaurante)",
-  "City": "Cuito"
+  "City": "Cuito",
+  "Popular": false
 },{
   "Name": "Aldizer comercial",
-  "City": "Cuito"
+  "City": "Cuito",
+  "Popular": false
 },{
   "Name": "Residencial Kima Kietu",
-  "City": "Cuito"
+  "City": "Cuito",
+  "Popular": false
 },{
   "Name": "Bar 70 Hambúrgaria e Cervejaria",
-  "City": "Cuito"
+  "City": "Cuito",
+  "Popular": false
 },{
   "Name": "Hotel e Restaurante Quinta da Terrincha",
-  "City": "Cuito"
+  "City": "Cuito",
+  "Popular": false
 },{
   "Name": "cyber net cofee3",
-  "City": "Cuito"
+  "City": "Cuito",
+  "Popular": false
 },{
   "Name": "JE comercial",
-  "City": "Cuito"
+  "City": "Cuito",
+  "Popular": false
 },{
   "Name": "Café do Monte",
-  "City": "Dilolo"
+  "City": "Dilolo",
+  "Popular": false
 },{
   "Name": "Restaurante Aromas e Sabores",
-  "City": "Huambo"
+  "City": "Huambo",
+  "Popular": false
 },{
   "Name": "Restaurante Casa do Porto",
-  "City": "Huambo"
+  "City": "Huambo",
+  "Popular": false
 },{
   "Name": "Restaurante Like",
-  "City": "Huambo"
+  "City": "Huambo",
+  "Popular": false
 },{
   "Name": "MASK Bar & Restaurante",
-  "City": "Huambo"
+  "City": "Huambo",
+  "Popular": false
 },{
   "Name": "Grimaldo Sabores ao seu gosto",
-  "City": "Huambo"
+  "City": "Huambo",
+  "Popular": false
 },{
   "Name": "Firma Albano Domingos & Filhos LDA",
-  "City": "Huambo"
+  "City": "Huambo",
+  "Popular": false
 },{
   "Name": "Snack Bar Brooklyn Café",
-  "City": "Huambo"
+  "City": "Huambo",
+  "Popular": false
 },{
   "Name": "Geladaria Tio Zé",
-  "City": "Huambo"
+  "City": "Huambo",
+  "Popular": false
 },{
   "Name": "Café Da Euclis",
-  "City": "Huambo"
+  "City": "Huambo",
+  "Popular": false
 },{
   "Name": "Cantina da Goreti",
-  "City": "Huambo"
+  "City": "Huambo",
+  "Popular": false
 },{
   "Name": "GRILL HOUSE LOUNGE",
-  "City": "Huambo"
+  "City": "Huambo",
+  "Popular": false
 },{
   "Name": "Nosso Bar",
-  "City": "Huambo"
+  "City": "Huambo",
+  "Popular": false
 },{
   "Name": "Bar do Love Fatima",
-  "City": "Huambo"
+  "City": "Huambo",
+  "Popular": false
 },{
   "Name": "Mimar Huambo",
-  "City": "Huambo"
+  "City": "Huambo",
+  "Popular": false
 },{
   "Name": "Bar Giga Mauro",
-  "City": "Huambo"
+  "City": "Huambo",
+  "Popular": false
 },{
   "Name": "Estação do Ary",
-  "City": "Huambo"
+  "City": "Huambo",
+  "Popular": false
 },{
   "Name": "Os bolos da formadora Adalzira",
-  "City": "Huambo"
+  "City": "Huambo",
+  "Popular": false
 },{
   "Name": "Delícias de Rei",
-  "City": "Huambo"
+  "City": "Huambo",
+  "Popular": false
 },{
   "Name": "DHL HUAMBO",
-  "City": "Huambo"
+  "City": "Huambo",
+  "Popular": false
 },{
   "Name": "Roulot Livuvada",
-  "City": "Huambo"
+  "City": "Huambo",
+  "Popular": false
 },{
   "Name": "Restaurante Batuk",
-  "City": "Lobito"
+  "City": "Lobito",
+  "Popular": false
 },{
   "Name": "Zulu",
-  "City": "Lobito"
+  "City": "Lobito",
+  "Popular": false
 },{
   "Name": "Jardim das Estrelas",
-  "City": "Lobito"
+  "City": "Lobito",
+  "Popular": false
 },{
   "Name": "Restaurante D. Bina",
-  "City": "Lobito"
+  "City": "Lobito",
+  "Popular": false
 },{
   "Name": "Alfa Beach Bar",
-  "City": "Lobito"
+  "City": "Lobito",
+  "Popular": false
 },{
   "Name": "A Cubata do Marcão",
-  "City": "Lobito"
+  "City": "Lobito",
+  "Popular": false
 },{
   "Name": "Apolo Restaurante",
-  "City": "Lobito"
+  "City": "Lobito",
+  "Popular": false
 },{
   "Name": "Embala Típico",
-  "City": "Lobito"
+  "City": "Lobito",
+  "Popular": false
 },{
   "Name": "Luna Ocean Club",
-  "City": "Lobito"
+  "City": "Lobito",
+  "Popular": false
 },{
   "Name": "Hungry Lion Lobito",
-  "City": "Lobito"
+  "City": "Lobito",
+  "Popular": false
 },{
   "Name": "Restaurante Kanawa",
-  "City": "Lobito"
+  "City": "Lobito",
+  "Popular": false
 },{
   "Name": "Tasquinha do Abrunhosa",
-  "City": "Lobito"
+  "City": "Lobito",
+  "Popular": false
 },{
   "Name": "Restaurante Angelo's",
-  "City": "Lobito"
+  "City": "Lobito",
+  "Popular": false
 },{
   "Name": "Bom Demais",
-  "City": "Lobito"
+  "City": "Lobito",
+  "Popular": false
 },{
   "Name": "Colina",
-  "City": "Lobito"
+  "City": "Lobito",
+  "Popular": false
 },{
   "Name": "Don Castelhana",
-  "City": "Lobito"
+  "City": "Lobito",
+  "Popular": false
 },{
   "Name": "Don Pedro",
-  "City": "Lobito"
+  "City": "Lobito",
+  "Popular": false
 },{
   "Name": "GUNGA",
-  "City": "Lobito"
+  "City": "Lobito",
+  "Popular": false
 },{
   "Name": "Restaurante Bar Ellitis",
-  "City": "Lobito"
+  "City": "Lobito",
+  "Popular": false
 },{
   "Name": "Restaurante Bakongo",
-  "City": "Lobito"
+  "City": "Lobito",
+  "Popular": false
 },{
   "Name": "Restaurante Pimms",
-  "City": "Luanda"
+  "City": "Luanda",
+  "Popular": false
 },{
   "Name": "Habesha Ethiopian Restaurant New",
-  "City": "Luanda"
+  "City": "Luanda",
+  "Popular": false
 },{
   "Name": "Buddha Luanda",
-  "City": "Luanda"
+  "City": "Luanda",
+  "Popular": false
 },{
   "Name": "A Biológica",
-  "City": "Luanda"
+  "City": "Luanda",
+  "Popular": false
 },{
   "Name": "Marnabrasa marisqueira e grill",
-  "City": "Luanda"
+  "City": "Luanda",
+  "Popular": false
 },{
   "Name": "Só Frango",
-  "City": "Luanda"
+  "City": "Luanda",
+  "Popular": false
 },{
   "Name": "Restaurante Burako da Floresta",
-  "City": "Luanda"
+  "City": "Luanda",
+  "Popular": false
 },{
   "Name": "Restaurante La Vigia Maculusso",
-  "City": "Luanda"
+  "City": "Luanda",
+  "Popular": false
 },{
   "Name": "Villas Restaurante Luanda",
-  "City": "Luanda"
+  "City": "Luanda",
+  "Popular": false
 },{
   "Name": "Sabores d'Afrika",
-  "City": "Luanda"
+  "City": "Luanda",
+  "Popular": false
 },{
   "Name": "Garden Café",
-  "City": "Luanda"
+  "City": "Luanda",
+  "Popular": false
 },{
   "Name": "Kimera",
-  "City": "Luanda"
+  "City": "Luanda",
+  "Popular": false
 },{
   "Name": "Restaurante Fiesta",
-  "City": "Luanda"
+  "City": "Luanda",
+  "Popular": false
 },{
   "Name": "Food Night",
-  "City": "Luanda"
+  "City": "Luanda",
+  "Popular": false
 },{
   "Name": "FaceFood Restaurant",
-  "City": "Luanda"
+  "City": "Luanda",
+  "Popular": false
 },{
   "Name": "Restaurante Gourmet Angola",
-  "City": "Luanda"
+  "City": "Luanda",
+  "Popular": false
 },{
   "Name": "La Guinguette",
-  "City": "Luanda"
+  "City": "Luanda",
+  "Popular": false
 },{
   "Name": "Restaurante Rmfs catering luanda",
-  "City": "Luanda"
+  "City": "Luanda",
+  "Popular": false
 },{
   "Name": "Everest Restaurant",
-  "City": "Luanda"
+  "City": "Luanda",
+  "Popular": false
 },{
   "Name": "El Patron",
-  "City": "Luanda"
+  "City": "Luanda",
+  "Popular": false
 },{
   "Name": "Café do Monte",
-  "City": "Lubango"
+  "City": "Lubango",
+  "Popular": false
 },{
   "Name": "Kimbanda Bar",
-  "City": "Lubango"
+  "City": "Lubango",
+  "Popular": false
 },{
   "Name": "Restaurante Kubata",
-  "City": "Lubango"
+  "City": "Lubango",
+  "Popular": false
 },{
   "Name": "Jack Restaurant",
-  "City": "Lubango"
+  "City": "Lubango",
+  "Popular": false
 },{
   "Name": "O Criador",
-  "City": "Lubango"
+  "City": "Lubango",
+  "Popular": false
 },{
   "Name": "Restaurante Valsa",
-  "City": "Lubango"
+  "City": "Lubango",
+  "Popular": false
 },{
   "Name": "Suculenta Restaurante Fast Food",
-  "City": "Lubango"
+  "City": "Lubango",
+  "Popular": false
 },{
   "Name": "Os Carecas Restaurante",
-  "City": "Lubango"
+  "City": "Lubango",
+  "Popular": false
 },{
   "Name": "Ombolo Yapia",
-  "City": "Lubango"
+  "City": "Lubango",
+  "Popular": false
 },{
   "Name": "Kípaladar-Lubango",
-  "City": "Lubango"
+  "City": "Lubango",
+  "Popular": false
 },{
   "Name": "Casa Verde",
-  "City": "Lubango"
+  "City": "Lubango",
+  "Popular": false
 },{
   "Name": "Sol da Sul",
-  "City": "Lubango"
+  "City": "Lubango",
+  "Popular": false
 },{
   "Name": "Omunda",
-  "City": "Lubango"
+  "City": "Lubango",
+  "Popular": false
 },{
   "Name": "Restaurante Paulino 'O pote de Tia Odete'",
-  "City": "Lubango"
+  "City": "Lubango",
+  "Popular": false
 },{
   "Name": "Huga's",
-  "City": "Lubango"
+  "City": "Lubango",
+  "Popular": false
 },{
   "Name": "Restaurante Freitas",
-  "City": "Lubango"
+  "City": "Lubango",
+  "Popular": false
 },{
   "Name": "Pululukua",
-  "City": "Lubango"
+  "City": "Lubango",
+  "Popular": false
 },{
   "Name": "Restaurante Lana",
-  "City": "Lubango"
+  "City": "Lubango",
+  "Popular": false
 },{
   "Name": "Cafe Vitamina",
-  "City": "Lubango"
+  "City": "Lubango",
+  "Popular": false
 },{
   "Name": "Restaurante do Hotel IU AAA",
-  "City": "Lubango"
+  "City": "Lubango",
+  "Popular": false
 },{
   "Name": "Cantinho do Largo 3A",
-  "City": "Lucapa"
+  "City": "Lucapa",
+  "Popular": false
 },{
   "Name": "Restaurante Pimms",
-  "City": "Lucapa"
+  "City": "Lucapa",
+  "Popular": false
 },{
   "Name": "Pappa dons",
-  "City": "Lucapa"
+  "City": "Lucapa",
+  "Popular": false
 },{
   "Name": "Moon Restaurante-Lounge",
-  "City": "Lucapa"
+  "City": "Lucapa",
+  "Popular": false
 },{
   "Name": "Vasku's Restaurant",
-  "City": "Lucapa"
+  "City": "Lucapa",
+  "Popular": false
 },{
   "Name": "Lookal Mar - Marisqueira",
-  "City": "Lucapa"
+  "City": "Lucapa",
+  "Popular": false
 },{
   "Name": "Kook Restaurant",
-  "City": "Lucapa"
+  "City": "Lucapa",
+  "Popular": false
 },{
   "Name": "Restaurante Café Del Mar",
-  "City": "Lucapa"
+  "City": "Lucapa",
+  "Popular": false
 },{
   "Name": "Espaço Luanda",
-  "City": "Lucapa"
+  "City": "Lucapa",
+  "Popular": false
 },{
   "Name": "Nikki's House Restaurant",
-  "City": "Lucapa"
+  "City": "Lucapa",
+  "Popular": false
 },{
   "Name": "Restaurante São João",
-  "City": "Lucapa"
+  "City": "Lucapa",
+  "Popular": false
 },{
   "Name": "Restaurante la Vigia",
-  "City": "Lucapa"
+  "City": "Lucapa",
+  "Popular": false
 },{
   "Name": "Taverna do Morro",
-  "City": "Lucapa"
+  "City": "Lucapa",
+  "Popular": false
 },{
   "Name": "Tudo na Brasa",
-  "City": "Lucapa"
+  "City": "Lucapa",
+  "Popular": false
 },{
   "Name": "Angola Restaurant",
-  "City": "Lucapa"
+  "City": "Lucapa",
+  "Popular": false
 },{
   "Name": "Will Flavour",
-  "City": "Luena"
+  "City": "Luena",
+  "Popular": false
 },{
   "Name": "Anitchel Hambúrguer's",
-  "City": "Luena"
+  "City": "Luena",
+  "Popular": false
 },{
   "Name": "Churrascaria e Bar A.F.S (Max)",
-  "City": "Luena"
+  "City": "Luena",
+  "Popular": false
 },{
   "Name": "Pastelaria ALEX",
-  "City": "Luena"
+  "City": "Luena",
+  "Popular": false
 },{
   "Name": "Jakson filho de Deus",
-  "City": "Luena"
+  "City": "Luena",
+  "Popular": false
 },{
   "Name": "Espaço Sanolé (A.N.L.J)",
-  "City": "Luena"
+  "City": "Luena",
+  "Popular": false
 },{
   "Name": "Restaurante Pimms",
-  "City": "Luena"
+  "City": "Luena",
+  "Popular": false
 },{
   "Name": "Vasku's Restaurant",
-  "City": "Luena"
+  "City": "Luena",
+  "Popular": false
 },{
   "Name": "Moon Restaurante-Lounge",
-  "City": "Luena"
+  "City": "Luena",
+  "Popular": false
 },{
   "Name": "Restaurante Café Del Mar",
-  "City": "Luena"
+  "City": "Luena",
+  "Popular": false
 },{
   "Name": "Lookal Mar - Marisqueira",
-  "City": "Luena"
+  "City": "Luena",
+  "Popular": false
 },{
   "Name": "Espaço Luanda",
-  "City": "Luena"
+  "City": "Luena",
+  "Popular": false
 },{
   "Name": "Bessangana cervejaria / restaurante",
-  "City": "Luena"
+  "City": "Luena",
+  "Popular": false
 },{
   "Name": "Nikki's House Restaurant",
-  "City": "Luena"
+  "City": "Luena",
+  "Popular": false
 },{
   "Name": "Tudo na Brasa",
-  "City": "Luena"
+  "City": "Luena",
+  "Popular": false
 },{
   "Name": "Restaurante la Vigia",
-  "City": "Luena"
+  "City": "Luena",
+  "Popular": false
 },{
   "Name": "Restaurante São João",
-  "City": "Luena"
+  "City": "Luena",
+  "Popular": false
 },{
   "Name": "Embarcadouro Restaurante",
-  "City": "Luena"
+  "City": "Luena",
+  "Popular": false
 },{
   "Name": "Valeiro dos Leitões",
-  "City": "Luena"
+  "City": "Luena",
+  "Popular": false
 },{
   "Name": "Churrasqueira Angolana",
-  "City": "Luena"
+  "City": "Luena",
+  "Popular": false
 },{
   "Name": "Roulote Branquinha",
-  "City": "M'banza Congo"
+  "City": "M'banza Congo",
+  "Popular": false
 },{
   "Name": "Angela",
-  "City": "M'banza Congo"
+  "City": "M'banza Congo",
+  "Popular": false
 },{
   "Name": "Restaurante Monte Belo",
-  "City": "M'banza Congo"
+  "City": "M'banza Congo",
+  "Popular": false
 },{
   "Name": "Padaria AngoEnajah",
-  "City": "M'banza Congo"
+  "City": "M'banza Congo",
+  "Popular": false
 },{
   "Name": "Padaria Topgel",
-  "City": "M'banza Congo"
+  "City": "M'banza Congo",
+  "Popular": false
 },{
   "Name": "Alimentation Christia Market",
-  "City": "M'banza Congo"
+  "City": "M'banza Congo",
+  "Popular": false
 },{
   "Name": "Restaurante Pimms",
-  "City": "M'banza Congo"
+  "City": "M'banza Congo",
+  "Popular": false
 },{
   "Name": "Espace Le Sapin Arret Le Sapin",
-  "City": "M'banza Congo"
+  "City": "M'banza Congo",
+  "Popular": false
 },{
   "Name": "Restaurante J.M.L.D",
-  "City": "M'banza Congo"
+  "City": "M'banza Congo",
+  "Popular": false
 },{
   "Name": "Seven Hotel and Restaurant",
-  "City": "M'banza Congo"
+  "City": "M'banza Congo",
+  "Popular": false
 },{
   "Name": "Iglorelang",
-  "City": "M'banza Congo"
+  "City": "M'banza Congo",
+  "Popular": false
 },{
   "Name": "CYBER CAFE EMANUEL ANGOOP",
-  "City": "M'banza Congo"
+  "City": "M'banza Congo",
+  "Popular": false
 },{
   "Name": "direcção da Saúde",
-  "City": "M'banza Congo"
+  "City": "M'banza Congo",
+  "Popular": false
 },{
   "Name": "Padaria AngoChock",
-  "City": "M'banza Congo"
+  "City": "M'banza Congo",
+  "Popular": false
 },{
   "Name": "Bairro arvaro buta",
-  "City": "M'banza Congo"
+  "City": "M'banza Congo",
+  "Popular": false
 },{
   "Name": "Mbanza Kongo",
-  "City": "M'banza Congo"
+  "City": "M'banza Congo",
+  "Popular": false
 },{
   "Name": "GAMAVEFIL, LDA - GMV COMERCIAL",
-  "City": "M'banza Congo"
+  "City": "M'banza Congo",
+  "Popular": false
 },{
   "Name": "Cathedral of the Holy Saviour of Congo",
-  "City": "M'banza Congo"
+  "City": "M'banza Congo",
+  "Popular": false
 },{
   "Name": "M'banza-Kongo",
-  "City": "M'banza Congo"
+  "City": "M'banza Congo",
+  "Popular": false
 },{
   "Name": "Restaurante Café Del Mar",
-  "City": "M'banza Congo"
+  "City": "M'banza Congo",
+  "Popular": false
 },{
   "Name": "Restaurante Cantinho da Momo",
-  "City": "Malanje"
+  "City": "Malanje",
+  "Popular": false
 },{
   "Name": "MedNet Comercio e Prestção de Serviços LDA",
-  "City": "Malanje"
+  "City": "Malanje",
+  "Popular": false
 },{
   "Name": "oficina na cozinha",
-  "City": "Malanje"
+  "City": "Malanje",
+  "Popular": false
 },{
   "Name": "Restaurant Le Petit",
-  "City": "Malanje"
+  "City": "Malanje",
+  "Popular": false
 },{
   "Name": "RESTAURANTE - BAR MEDNET",
-  "City": "Malanje"
+  "City": "Malanje",
+  "Popular": false
 },{
   "Name": "Cantinho da Chiivas",
-  "City": "Malanje"
+  "City": "Malanje",
+  "Popular": false
 },{
   "Name": "Cantinho Do Cota",
-  "City": "Malanje"
+  "City": "Malanje",
+  "Popular": false
 },{
   "Name": "interposto malanje",
-  "City": "Malanje"
+  "City": "Malanje",
+  "Popular": false
 },{
   "Name": "Café e Geladaria Malú",
-  "City": "Malanje"
+  "City": "Malanje",
+  "Popular": false
 },{
   "Name": "Tuta Snack-Bar",
-  "City": "Malanje"
+  "City": "Malanje",
+  "Popular": false
 },{
   "Name": "Rede Casa Cheia",
-  "City": "Malanje"
+  "City": "Malanje",
+  "Popular": false
 },{
   "Name": "Correios de Angola",
-  "City": "Malanje"
+  "City": "Malanje",
+  "Popular": false
 },{
   "Name": "Balumuka Bar",
-  "City": "Malanje"
+  "City": "Malanje",
+  "Popular": false
 },{
   "Name": "Hotel Menongue",
-  "City": "Menongue"
+  "City": "Menongue",
+  "Popular": false
 },{
   "Name": "Restaurante Os Sabores da Fanlícia",
-  "City": "Menongue"
+  "City": "Menongue",
+  "Popular": false
 },{
   "Name": "Cantina",
-  "City": "Menongue"
+  "City": "Menongue",
+  "Popular": false
 },{
   "Name": "JUDIANA FOOD",
-  "City": "Menongue"
+  "City": "Menongue",
+  "Popular": false
 },{
   "Name": "Isane e Filhos Restaurante",
-  "City": "Menongue"
+  "City": "Menongue",
+  "Popular": false
 },{
   "Name": "SNACK BAR - GULA GULA",
-  "City": "Menongue"
+  "City": "Menongue",
+  "Popular": false
 },{
   "Name": "Mulombe Restaurant",
-  "City": "Menongue"
+  "City": "Menongue",
+  "Popular": false
 },{
   "Name": "Hambúrguaria lucas",
-  "City": "Menongue"
+  "City": "Menongue",
+  "Popular": false
 },{
   "Name": "R I V E R L O U N G E",
-  "City": "Menongue"
+  "City": "Menongue",
+  "Popular": false
 },{
   "Name": "Restaurante e Salão de Festas Oásis do Sudeste",
-  "City": "Menongue"
+  "City": "Menongue",
+  "Popular": false
 },{
   "Name": "Hamburgaria KAFUMANA",
-  "City": "Menongue"
+  "City": "Menongue",
+  "Popular": false
 },{
   "Name": "Cantina Roadside Pub and Grill",
-  "City": "Menongue"
+  "City": "Menongue",
+  "Popular": false
 },{
   "Name": "Franatt-Comércio & Prestação de serviços (SU) LDA",
-  "City": "Menongue"
+  "City": "Menongue",
+  "Popular": false
 },{
   "Name": "SNACK BAR & HAMBURHARIA - ALFIRENE",
-  "City": "Menongue"
+  "City": "Menongue",
+  "Popular": false
 },{
   "Name": "BAR POUSADA JUVENIL",
-  "City": "Menongue"
+  "City": "Menongue",
+  "Popular": false
 },{
   "Name": "Pousada Juvenil",
-  "City": "Menongue"
+  "City": "Menongue",
+  "Popular": false
 },{
   "Name": "Complexo Turístico Reencontro",
-  "City": "Menongue"
+  "City": "Menongue",
+  "Popular": false
 },{
   "Name": "Hotel Ritz Lauca",
-  "City": "Menongue"
+  "City": "Menongue",
+  "Popular": false
 },{
   "Name": "Ritz Lauca",
-  "City": "Menongue"
+  "City": "Menongue",
+  "Popular": false
 },{
   "Name": "Maternidade de Menongue",
-  "City": "Menongue"
+  "City": "Menongue",
+  "Popular": false
 },{
   "Name": "QUINTALÃO do Mané",
-  "City": "Moçâmedes"
+  "City": "Moçâmedes",
+  "Popular": false
 },{
   "Name": "Gaspar",
-  "City": "Moçâmedes"
+  "City": "Moçâmedes",
+  "Popular": false
 },{
   "Name": "Vietnamese restaurant",
-  "City": "Moçâmedes"
+  "City": "Moçâmedes",
+  "Popular": false
 },{
   "Name": "Hamburgaria Bom De +",
-  "City": "Moçâmedes"
+  "City": "Moçâmedes",
+  "Popular": false
 },{
   "Name": "cá do Bebila",
-  "City": "Moçâmedes"
+  "City": "Moçâmedes",
+  "Popular": false
 },{
   "Name": "Restaurante Pimms",
-  "City": "Moçâmedes"
+  "City": "Moçâmedes",
+  "Popular": false
 },{
   "Name": "Ponto de Encontro",
-  "City": "Moçâmedes"
+  "City": "Moçâmedes",
+  "Popular": false
 },{
   "Name": "Restaurante Náutico",
-  "City": "Moçâmedes"
+  "City": "Moçâmedes",
+  "Popular": false
 },{
   "Name": "Atd Ngombo",
-  "City": "Moçâmedes"
+  "City": "Moçâmedes",
+  "Popular": false
 },{
   "Name": "Skina Place",
-  "City": "Moçâmedes"
+  "City": "Moçâmedes",
+  "Popular": false
 },{
   "Name": "Nha Cretcheu",
-  "City": "Moçâmedes"
+  "City": "Moçâmedes",
+  "Popular": false
 },{
   "Name": "Suculenta Namibe Restaurante FastFood",
-  "City": "Moçâmedes"
+  "City": "Moçâmedes",
+  "Popular": false
 },{
   "Name": "Restaurante welwictha",
-  "City": "Moçâmedes"
+  "City": "Moçâmedes",
+  "Popular": false
 },{
   "Name": "Tobiacanga",
-  "City": "Moçâmedes"
+  "City": "Moçâmedes",
+  "Popular": false
 },{
   "Name": "Vila Dorotéia",
-  "City": "Moçâmedes"
+  "City": "Moçâmedes",
+  "Popular": false
 },{
   "Name": "Bué Fixe",
-  "City": "Moçâmedes"
+  "City": "Moçâmedes",
+  "Popular": false
 },{
   "Name": "Canal Do NEN",
-  "City": "Moçâmedes"
+  "City": "Moçâmedes",
+  "Popular": false
 },{
   "Name": "O comilão",
-  "City": "Moçâmedes"
+  "City": "Moçâmedes",
+  "Popular": false
 },{
   "Name": "Restaurante Pingo Doce",
-  "City": "Moçâmedes"
+  "City": "Moçâmedes",
+  "Popular": false
 },{
   "Name": "Restaurante welwictha",
-  "City": "Moçâmedes"
+  "City": "Moçâmedes",
+  "Popular": false
 },{
   "Name": "Restaurante Cristal Ndalatando",
-  "City": "N'dalatando"
+  "City": "N'dalatando",
+  "Popular": false
 },{
   "Name": "Restaurante e Hamburgaria do PedroIsabel",
-  "City": "N'dalatando"
+  "City": "N'dalatando",
+  "Popular": false
 },{
   "Name": "Hotel Miradouro",
-  "City": "N'dalatando"
+  "City": "N'dalatando",
+  "Popular": false
 },{
   "Name": "Celso cafe",
-  "City": "N'dalatando"
+  "City": "N'dalatando",
+  "Popular": false
 },{
   "Name": "Tiro aos pratos",
-  "City": "N'dalatando"
+  "City": "N'dalatando",
+  "Popular": false
 },{
   "Name": "Deomar dos Prazeres Gonçalves Antonio",
-  "City": "N'dalatando"
+  "City": "N'dalatando",
+  "Popular": false
 },{
   "Name": "Banco Económico Ndalatando",
-  "City": "N'dalatando"
+  "City": "N'dalatando",
+  "Popular": false
 },{
   "Name": "Restaurante Poente Bar",
-  "City": "N'dalatando"
+  "City": "N'dalatando",
+  "Popular": false
 },{
   "Name": "N'dalatando",
-  "City": "N'dalatando"
+  "City": "N'dalatando",
+  "Popular": false
 },{
   "Name": "Nimi Mak Busness",
-  "City": "N'dalatando"
+  "City": "N'dalatando",
+  "Popular": false
 },{
   "Name": "Restaurante",
-  "City": "Ondjiva"
+  "City": "Ondjiva",
+  "Popular": false
 },{
   "Name": "Aflumbamba Caxila 2",
-  "City": "Ondjiva"
+  "City": "Ondjiva",
+  "Popular": false
 },{
   "Name": "Restaurante F24",
-  "City": "Ondjiva"
+  "City": "Ondjiva",
+  "Popular": false
 },{
   "Name": "A Formula Hamburgaria",
-  "City": "Ondjiva"
+  "City": "Ondjiva",
+  "Popular": false
 },{
   "Name": "Nosso Pão",
-  "City": "Ondjiva"
+  "City": "Ondjiva",
+  "Popular": false
 },{
   "Name": "Restaurante Pimms",
-  "City": "Ondjiva"
+  "City": "Ondjiva",
+  "Popular": false
 },{
   "Name": "Espaço Q´Delícia",
-  "City": "Ondjiva"
+  "City": "Ondjiva",
+  "Popular": false
 },{
   "Name": "Kwazinya KwaJuliena",
-  "City": "Ondjiva"
+  "City": "Ondjiva",
+  "Popular": false
 },{
   "Name": "Cozinha da Juliana-Oshikango",
-  "City": "Ondjiva"
+  "City": "Ondjiva",
+  "Popular": false
 },{
   "Name": "Semax",
-  "City": "Ondjiva"
+  "City": "Ondjiva",
+  "Popular": false
 },{
   "Name": "North-Way Restaurant oshikango main road",
-  "City": "Ondjiva"
+  "City": "Ondjiva",
+  "Popular": false
 },{
   "Name": "Hungry Lion Oshikango",
-  "City": "Ondjiva"
+  "City": "Ondjiva",
+  "Popular": false
 },{
   "Name": "Vasku's Restaurant",
-  "City": "Ondjiva"
+  "City": "Ondjiva",
+  "Popular": false
 },{
   "Name": "Tudo na Brasa",
-  "City": "Ondjiva"
+  "City": "Ondjiva",
+  "Popular": false
 },{
   "Name": "JUnKEMBO",
-  "City": "Ondjiva"
+  "City": "Ondjiva",
+  "Popular": false
 },{
   "Name": "Nikki's House Restaurant",
-  "City": "Ondjiva"
+  "City": "Ondjiva",
+  "Popular": false
 },{
   "Name": "Restaurante Palatvs",
-  "City": "Ondjiva"
+  "City": "Ondjiva",
+  "Popular": false
 },{
   "Name": "Restaurante Café Del Mar",
-  "City": "Ondjiva"
+  "City": "Ondjiva",
+  "Popular": false
 },{
   "Name": "Restaurante la Vigia",
-  "City": "Ondjiva"
+  "City": "Ondjiva",
+  "Popular": false
 },{
   "Name": "o forno",
-  "City": "Ondjiva"
+  "City": "Ondjiva",
+  "Popular": false
 },{
   "Name": "DC Hamburgaria",
-  "City": "Saurimo"
+  "City": "Saurimo",
+  "Popular": false
 },{
   "Name": "越南饭店，预订",
-  "City": "Saurimo"
+  "City": "Saurimo",
+  "Popular": false
 },{
   "Name": "Nuvem dos Sabores",
-  "City": "Saurimo"
+  "City": "Saurimo",
+  "Popular": false
 },{
   "Name": "Two hundred twenty two (222)",
-  "City": "Saurimo"
+  "City": "Saurimo",
+  "Popular": false
 },{
   "Name": "Jas ambris & irmãos. Lda",
-  "City": "Saurimo"
+  "City": "Saurimo",
+  "Popular": false
 },{
   "Name": "Caseirinhos LDA",
-  "City": "Saurimo"
+  "City": "Saurimo",
+  "Popular": false
 },{
   "Name": "Agostinho Neto",
-  "City": "Saurimo"
+  "City": "Saurimo",
+  "Popular": false
 },{
   "Name": "X-Club (Restaurante e Bar)",
-  "City": "Saurimo"
+  "City": "Saurimo",
+  "Popular": false
 },{
   "Name": "Restaurante-越南人",
-  "City": "Saurimo"
+  "City": "Saurimo",
+  "Popular": false
 },{
   "Name": "Franguité",
-  "City": "Saurimo"
+  "City": "Saurimo",
+  "Popular": false
 },{
   "Name": "Bar Link Space",
-  "City": "Saurimo"
+  "City": "Saurimo",
+  "Popular": false
 },{
   "Name": "Refeitório",
-  "City": "Saurimo"
+  "City": "Saurimo",
+  "Popular": false
 },{
   "Name": "Saurimo",
-  "City": "Saurimo"
+  "City": "Saurimo",
+  "Popular": false
 },{
   "Name": "越南人店",
-  "City": "Saurimo"
+  "City": "Saurimo",
+  "Popular": false
 },{
   "Name": "Mobil lounge",
-  "City": "Saurimo"
+  "City": "Saurimo",
+  "Popular": false
 },{
   "Name": "Mar e Sol",
-  "City": "Sumbe"
+  "City": "Sumbe",
+  "Popular": false
 },{
   "Name": "Bar Jardim",
-  "City": "Sumbe"
+  "City": "Sumbe",
+  "Popular": false
 },{
   "Name": "Menezes",
-  "City": "Sumbe"
+  "City": "Sumbe",
+  "Popular": false
 },{
   "Name": "JOSPAC - Comércio Geral e Prestação de Serviços",
-  "City": "Sumbe"
+  "City": "Sumbe",
+  "Popular": false
 },{
   "Name": "cagiricomercial",
-  "City": "Sumbe"
+  "City": "Sumbe",
+  "Popular": false
 },{
   "Name": "Hamburgueria 1º de maio",
-  "City": "Sumbe"
+  "City": "Sumbe",
+  "Popular": false
 },{
   "Name": "Cervejaria FÊNIX",
-  "City": "Sumbe"
+  "City": "Sumbe",
+  "Popular": false
 },{
   "Name": "Restaurante da Tia Ká",
-  "City": "Sumbe"
+  "City": "Sumbe",
+  "Popular": false
 },{
   "Name": "Restaurante A Esteirinha",
-  "City": "Sumbe"
+  "City": "Sumbe",
+  "Popular": false
 },{
   "Name": "Macosil",
-  "City": "Sumbe"
+  "City": "Sumbe",
+  "Popular": false
 },{
   "Name": "Café Gabela",
-  "City": "Sumbe"
+  "City": "Sumbe",
+  "Popular": false
 },{
   "Name": "Complexo Praia Seca - Hospedaria e Restaurante",
-  "City": "Sumbe"
+  "City": "Sumbe",
+  "Popular": false
 },{
   "Name": "Hotel Mar e Sol",
-  "City": "Sumbe"
+  "City": "Sumbe",
+  "Popular": false
 },{
   "Name": "Bar Life",
-  "City": "Sumbe"
+  "City": "Sumbe",
+  "Popular": false
 },{
   "Name": "Osvaldocomercial129",
-  "City": "Sumbe"
+  "City": "Sumbe",
+  "Popular": false
 },{
   "Name": "Café Gabela",
-  "City": "Sumbe"
+  "City": "Sumbe",
+  "Popular": false
 },{
   "Name": "Bar Nosso sítio",
-  "City": "Sumbe"
+  "City": "Sumbe",
+  "Popular": false
 },{
   "Name": "Sumbe Terra Prometida",
-  "City": "Sumbe"
+  "City": "Sumbe",
+  "Popular": false
 },{
   "Name": "Restaurante Wembele",
-  "City": "Sumbe"
+  "City": "Sumbe",
+  "Popular": false
 },{
   "Name": "HCJC - Henrique Chambula José Chipuco",
-  "City": "Sumbe"
+  "City": "Sumbe",
+  "Popular": false
 }]
