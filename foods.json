@@ -1,0 +1,213 @@
+[{
+  "Name": "Nuggets",
+  "Category": "Barbecue",
+  "Price": 999,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Tuna steak",
+  "Category": "Barbecue",
+  "Price": 10000000,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Mandi",
+  "Category": "Barbecue",
+  "Price": 13,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Cream",
+  "Category": "Barbecue",
+  "Price": 13,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Bacon",
+  "Category": "Barbecue",
+  "Price": 13,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Steak",
+  "Category": "Barbecue",
+  "Price": 13,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Hot dog",
+  "Category": "Barbecue",
+  "Price": 13,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Cheese",
+  "Category": "Barbecue",
+  "Price": 13,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Mushrrom",
+  "Category": "Barbecue",
+  "Price": 13,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Bread",
+  "Category": "Barbecue",
+  "Price": 13,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Shrimp",
+  "Category": "Barbecue",
+  "Price": 13,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Ham",
+  "Category": "Barbecue",
+  "Price": 13,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Seafood",
+  "Category": "Barbecue",
+  "Price": 13,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Milk",
+  "Category": "Barbecue",
+  "Price": 13,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Salad",
+  "Category": "Barbecue",
+  "Price": 13,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Pizza",
+  "Category": "Barbecue",
+  "Price": 13,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Hamburger",
+  "Category": "Barbecue",
+  "Price": 13,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Beef",
+  "Category": "Barbecue",
+  "Price": 13,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Sour cream",
+  "Category": "Barbecue",
+  "Price": 13,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Jam",
+  "Category": "Barbecue",
+  "Price": 13,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Sausage",
+  "Category": "231",
+  "Price": 1312996558,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Sandwich",
+  "Category": "123",
+  "Price": 123,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Roast chicken",
+  "Category": "123",
+  "Price": 123,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Kebab",
+  "Category": "123",
+  "Price": 123,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Mutton",
+  "Category": "123",
+  "Price": 123,
+  "RestaurantName": "Sabor Cubano da Lily"
+},{
+  "Name": "Cottage cheese",
+  "Category": "123",
+  "Price": 123,
+  "RestaurantName": "123"
+},{
+  "Name": "Egg",
+  "Category": "123",
+  "Price": 123,
+  "RestaurantName": "123"
+},{
+  "Name": "Pancake",
+  "Category": "123",
+  "Price": 123,
+  "RestaurantName": "123"
+},{
+  "Name": "Spaghetti",
+  "Category": "123",
+  "Price": 123,
+  "RestaurantName": "123"
+},{
+  "Name": "Egg",
+  "Category": "123",
+  "Price": 123,
+  "RestaurantName": "123"
+},{
+  "Name": "Pizza",
+  "Category": "123",
+  "Price": 123,
+  "RestaurantName": "123"
+},{
+  "Name": "Yoghurt",
+  "Category": "123",
+  "Price": 123,
+  "RestaurantName": "123"
+},{
+  "Name": "French fried",
+  "Category": "123",
+  "Price": 123,
+  "RestaurantName": "123"
+},{
+  "Name": "Noodles",
+  "Category": "123",
+  "Price": 1231,
+  "RestaurantName": "AAAAA"
+},{
+  "Name": "Popcorn",
+  "Category": "123",
+  "Price": 123,
+  "RestaurantName": "DDDDD",
+  "ImageUrl": "file:///storage/emulated/0/Android/data/com.awesomeproject/files/Pictures/b5092ea6-25e4-4182-a49e-0708e31c66dd.jpg"
+},{
+  "Name": "Croissant",
+  "Category": "123",
+  "Price": 123,
+  "RestaurantName": "DDDDD",
+  "ImageUrl": "file:///storage/emulated/0/Android/data/com.awesomeproject/files/Pictures/063dc9f4-c010-4ab6-8149-85bdd7aaeb28.jpg"
+},{
+  "Name": "Toast",
+  "Category": "123",
+  "Price": 123,
+  "RestaurantName": "DDDDD",
+  "ImageUrl": "file:///storage/emulated/0/Android/data/com.awesomeproject/files/Pictures/e02b5153-2a41-428b-8ae9-4426999a1082.jpg"
+},{
+  "Name": "Waffles",
+  "Category": "123",
+  "Price": 123,
+  "RestaurantName": "DDDDD",
+  "ImageUrl": "http://10.0.2.2:5000/uploads/imagePicker.png"
+},{
+  "Name": "Fried chicken",
+  "Category": "123",
+  "Price": 123,
+  "RestaurantName": "DDDDD",
+  "ImageUrl": "file:///storage/emulated/0/Android/data/com.awesomeproject/files/Pictures/48d751e6-134a-4ef1-89b2-8a46bd73b63a.jpg"
+},{
+  "Name": "Butter",
+  "Category": "111111",
+  "Price": 11111,
+  "RestaurantName": "DDDDD",
+  "ImageUrl": "file:///storage/emulated/0/Android/data/com.awesomeproject/files/Pictures/cae6c143-09ac-4d9c-a413-69427082b200.jpg"
+},{
+  "Name": "Ice cream",
+  "Category": "11111",
+  "Price": 111111,
+  "RestaurantName": "DDDDD",
+  "ImageUrl": "file:///storage/emulated/0/Android/data/com.awesomeproject/files/Pictures/a1be5bcd-a631-457c-8d83-a1c88b4f3946.jpg"
+}]
